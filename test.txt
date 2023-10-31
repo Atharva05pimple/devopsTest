@@ -1,1 +1,13 @@
-arhasbdsnad
+github make new repo public
+
+cmd pe 
+
+git init
+git add . 
+git commit -m "this is"
+
+who are you rahega toh 
+email aur name in provided code 
+again commit
+git push
+ 
